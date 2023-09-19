@@ -12,8 +12,8 @@ Antes de usar a API, siga estas etapas:
 2. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/rayannelana14/Catalogo-filmes-api.git
+   cd Catalogo-filmes-api
    ```
 
 3. Instale as dependências:
@@ -35,6 +35,10 @@ Antes de usar a API, siga estas etapas:
    ```
 
 A API estará em execução em `http://localhost:3000`.
+
+Essa API Está disponível no endereço
+
+http://productserve.vps.webdock.cloud:3000
 
 ## Rotas
 
