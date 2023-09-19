@@ -1,6 +1,4 @@
-Claro, aqui está um exemplo de conteúdo para um arquivo `README.md` que você pode usar para documentar a sua API de catálogo de filmes em Node.js com SQLite:
 
-```markdown
 # API de Catálogo de Filmes
 
 Esta é uma API simples de catálogo de filmes que permite realizar operações CRUD (Create, Read, Update, Delete) em uma coleção de filmes. Ela foi construída em Node.js e usa um banco de dados SQLite para armazenar os dados dos filmes.
