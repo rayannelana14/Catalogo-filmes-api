@@ -87,11 +87,3 @@ curl -X DELETE http://localhost:3000/filmes/1
 ## Contribuição
 
 Sinta-se à vontade para contribuir para este projeto. Você pode abrir problemas (issues) ou enviar pull requests com melhorias.
-
-## Licença
-
-Este projeto está sob a [Licença MIT](LICENSE).
-
-```
-
-Lembre-se de personalizar o arquivo `README.md` com informações específicas sobre o seu projeto, como nome do autor, licença, link para o repositório no GitHub e qualquer outra informação relevante. Isso ajudará os usuários e colaboradores a entenderem e utilizarem a sua API.
