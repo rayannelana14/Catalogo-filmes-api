@@ -61,13 +61,14 @@ curl -X POST -H "Content-Type: application/json" -d '{
   "ano": 1994,
   "atores": "John Travolta, Uma Thurman, Samuel L. Jackson",
   "premios": "Vencedor de vários prêmios, incluindo Palma de Ouro em Cannes"
-}' http://localhost:3000/filmes
+}' http://productserve.vps.webdock.cloud:3000/filmes
+
 ```
 
 ### Exemplo de Solicitação GET para Obter Todos os Filmes
 
 ```bash
-curl http://localhost:3000/filmes
+curl http://productserve.vps.webdock.cloud:3000/filmes
 ```
 
 ### Exemplo de Solicitação PUT para Atualizar um Filme por ID
@@ -79,13 +80,13 @@ curl -X PUT -H "Content-Type: application/json" -d '{
   "ano": 1994,
   "atores": "John Travolta, Uma Thurman, Samuel L. Jackson",
   "premios": "Vencedor de vários prêmios, incluindo Palma de Ouro em Cannes"
-}' http://localhost:3000/filmes/1
+}' http://productserve.vps.webdock.cloud:3000/filmes/1
 ```
 
 ### Exemplo de Solicitação DELETE para Excluir um Filme por ID
 
 ```bash
-curl -X DELETE http://localhost:3000/filmes/1
+curl -X DELETE http://productserve.vps.webdock.cloud:3000/filmes/1
 ```
 
 ## Contribuição
